@@ -3,7 +3,7 @@
 Plugin Name: OCWS Basic Pack
 Plugin URI: http://oldcastleweb.com/pws/plugins
 Description: This plugin adds all the basic plugins and info required for the OCWS Basic Pack.
-Version: 0.7
+Version: 0.8
 Author: Paul Taylor
 Author URI: http://oldcastleweb.com/pws/about
 License: GPL2
