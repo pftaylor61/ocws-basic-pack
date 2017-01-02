@@ -9,5 +9,11 @@ This package sets up the information for the OCWS Basic site. it offers the inst
 - GitHub Link
 - Login Logo
 
+##Version 0.9
+Adds:
+- Bulk Delete
+- New User Admin
+- Capability Manager Enhanced
+
 
 
