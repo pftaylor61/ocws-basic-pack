@@ -3,7 +3,7 @@
 Plugin Name: OCWS Basic Pack
 Plugin URI: http://oldcastleweb.com/pws/plugins
 Description: This plugin adds all the basic plugins and info required for the OCWS Basic Pack.
-Version: 0.9
+Version: 0.9.1
 Author: Paul Taylor
 Author URI: http://oldcastleweb.com/pws/about
 License: GPL2
@@ -89,8 +89,8 @@ function ocwsbp__register_required_plugins() {
 
 		// This is an example of how to include a plugin from the WordPress Plugin Repository.
 		array(
-			'name'      => 'Login Logo',
-			'slug'      => 'login-logo',
+			'name'      => 'Custom Login',
+			'slug'      => 'custom-login',
 			'required'  => false,
 		),
             
