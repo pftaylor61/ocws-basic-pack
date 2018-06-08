@@ -3,7 +3,7 @@
 Plugin Name: OCWS Basic Pack
 Plugin URI: http://oldcastleweb.com/pws/plugins
 Description: This plugin adds all the basic plugins and info required for the OCWS Basic Pack.
-Version: 0.9.1
+Version: 0.9.2
 Author: Paul Taylor
 Author URI: http://oldcastleweb.com/pws/about
 License: GPL2
@@ -63,13 +63,7 @@ function ocwsbp__register_required_plugins() {
 			'source'    => 'https://github.com/afragen/github-updater/archive/develop.zip',
 		),
 		
-		// GitHub link
-		// on GitHub
-		array(
-			'name'      => 'GitHub Link',
-			'slug'      => 'github-link',
-			'source'    => 'https://github.com/szepeviktor/github-link/archive/master.zip',
-		),
+		
 		
 		// OCWS Admin Bar
 		// on GitHub
@@ -108,7 +102,7 @@ function ocwsbp__register_required_plugins() {
             
                 array(
 			'name'      => 'Capability Manager Enhanced',
-			'slug'      => 'capsman-enhanced',
+			'slug'      => 'capability-manager-enhanced',
 			'required'  => false,
 		),
 
