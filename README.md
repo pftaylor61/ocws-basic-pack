@@ -9,6 +9,9 @@ This package sets up the information for the OCWS Basic site. it offers the inst
 - GitHub Link
 - Login Logo
 
+## Version 0.9.2
+- Some updates to required and recommended plugins.
+
 ## Version 0.9.1
 - This plugin added to OCWS Basic.
 
