@@ -8,6 +8,10 @@ This package sets up the information for the OCWS Basic site. it offers the inst
 - GitHub Updater
 - GitHub Link
 - Login Logo
+- Classic Editor
+
+## Version 0.9.3
+- Now requires Classic Editor
 
 ## Version 0.9.2
 - Some updates to required and recommended plugins.
